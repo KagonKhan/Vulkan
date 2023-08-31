@@ -1,2 +1,7 @@
 /build
 /bin
+
+.vs/
+CMakeSettings.json
+CMakeUserPresets.json
+deps/
